@@ -6,7 +6,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "5",
       "5",
@@ -22,7 +22,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "5",
       "5",
@@ -38,7 +38,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "5",
       "5",
@@ -54,7 +54,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "5",
       "5",
@@ -70,7 +70,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "5",
       "5",
@@ -86,7 +86,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "5",
       "5",
@@ -102,7 +102,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "6",
       "6",
@@ -118,7 +118,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "3",
-      "1"
+      "1",
       "3",
       "5",
       "5",
@@ -134,7 +134,7 @@ var friends = [
     photo: "(Photo location??)",
     scores: [
       "5",
-      "1"
+      "1",
       "3",
       "5",
       "7",
@@ -149,4 +149,4 @@ var friends = [
 ];
 //Export the array. This makes it availible by using require.
 
-module.exports. = friends;
+module.exports = friends;
